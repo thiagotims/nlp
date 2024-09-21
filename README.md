@@ -1,2 +1,2 @@
-# nlp
-repository for natural language processing projects
+# Natural Language Processing
+repository for natural language processing projects and scrips
