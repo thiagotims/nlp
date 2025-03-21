@@ -5,7 +5,7 @@ repository for natural language processing projects and scripts
   - Guide with basic commands for text preprocessing in NLP.
 2. **NLP01_Spacy.ipynb**
   - Guided activity on natural language processing using the SpaCy library for the course Neural Processing of Natural Language in Portuguese I (University of São Paulo).
-3. **text-generation_hugginface.ipynb**
+3. **text_generation_hugginface.ipynb**
   - Text generation with a model from Meta's LLaMA family, using quantization to optimize execution on GPUs with less VRAM.
 4. **text-generation_huggingface-gemma.ipynb**
   - Text generation with a model from Google's Gemma family, built for instruction tasks and using quantization to optimize execution on GPUs with less VRAM.
