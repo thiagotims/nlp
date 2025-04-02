@@ -1,26 +1,23 @@
-# Impl
+# Assistente Virtual Multimodelo com Streamlit
 
 
 ## 📝 **Descrição**
-Este projeto apresenta dois experimentos de implementação de Modelos de Linguagem de Grande Escala (LLMs) em uma máquina local.  
+Este projeto é um assistente virtual interativo desenvolvido em **Python** com **Streamlit**, integrando múltiplos modelos de linguagem (**OpenAI, Ollama e Hugging Face**) para responder perguntas e interagir com os usuários. O sistema permite a seleção dinâmica do modelo, armazenando o histórico de conversa para um fluxo contínuo de interação.  
 
-- **Hugging Face:** O modelo **Meta-Llama-3-8B-Instruct** foi acessado através da API do Hugging Face Hub, utilizando o LangChain para facilitar a integração. Aqui, o modelo roda na nuvem da Hugging Face, sem necessidade de processamento local.  
-- **Ollama:** O modelo **Phi-3** foi executado **localmente** através do Ollama, permitindo inferência sem depender de servidores externos.  
-
-- Em suma, a principal diferença entre os experimentos é que o Hugging Face utiliza a **API na nuvem**, enquanto o Ollama permite rodar o modelo **diretamente na máquina local**, garantindo mais privacidade e independência de servidores externos.  
 
 ---
 
 ## **Ficha Técnica**
 
-| 🔍 **Item**           | 📄 **Descrição** |
-|---------------------|----------------|
-| **🛠️ Tecnologias** | Python, LangChain, Ollama, Hugging Face Hub |
-| **📦 Dependências** | `langchain`, `langchain_community`, `langchain-huggingface`, `langchain_ollama`, `python-dotenv` |
-| **⚙️ Funcionalidade** | Comparação entre execução de LLMs na nuvem (Hugging Face) e localmente (Ollama) |
-| **📌 Modelos Utilizados** | `meta-llama/Meta-Llama-3-8B-Instruct` (Hugging Face) e `phi3` (Ollama) |
-| **🌐 Execução na Nuvem** | Hugging Face Hub (requisição via API) |
-| **💻 Execução Local** | Ollama (modelo rodando no próprio hardware) |
-| **🔑 Autenticação** | API Key do Hugging Face via `.env` |
+| 🔍 **Item** | 📄 **Descrição** |
+|------------|----------------|
+| **🛠️ Tecnologias** | Python, Streamlit, LangChain |
+| **📦 Dependências** | streamlit, langchain, torch, dotenv |
+| **⚙️ Funcionalidade** | Chat interativo com IA usando diferentes modelos de linguagem |
+| **📌 Modelos Utilizados** | GPT-4o-mini (OpenAI), Phi-3 (Ollama), Meta-Llama-3-8B-Instruct (Hugging Face) |
+| **📡 Integrações** | OpenAI API, Ollama, Hugging Face Hub |
+| **📝 Interface** | Web app via Streamlit |
+| **📑 Histórico** | Armazenamento de conversas na sessão do Streamlit |
+| **🔧 Configuração** | Escolha dinâmica do modelo a ser utilizado |
 
 
