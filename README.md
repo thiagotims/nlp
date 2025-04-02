@@ -22,3 +22,4 @@ repository for natural language processing projects and scripts
 10. 📄 **transcricao_resumo_videos.ipynb**  [🔗](https://github.com/thiagotims/nlp/blob/main/transcricao_resumo_videos.ipynb)
   - This project enables automatic transcription and content analysis of YouTube videos. It allows you to obtain detailed information about a video without having to watch it in its entirety. The system combines transcription APIs with language models (LLMs) for content summarization and analysis.
 11. 📁 **virtual_assistant** [🔗](https://github.com/thiagotims/nlp/tree/main/virtual_assistant)
+  - This project is an interactive virtual assistant developed in Python with Streamlit, integrating multiple language models (OpenAI, Ollama and Hugging Face) to answer questions and interact with users. The system allows dynamic model selection, storing conversation history for a continuous flow of interaction.
