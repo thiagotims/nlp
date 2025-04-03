@@ -11,7 +11,6 @@ from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 
-import torch
 from langchain_huggingface import ChatHuggingFace
 from langchain_huggingface import HuggingFaceEndpoint #solucao alternativa ao HuggingFaceHub
 from dotenv import load_dotenv
@@ -115,3 +114,12 @@ if user_query is not None and user_query != "":
                                               model_class))
     st.session_state.chat_history.append(AIMessage(content=resp))
 
+
+
+
+# %% Campo de entrada do usuário
+import sys
+print(sys.executable)
+print(sys.path)
+
+# %%
