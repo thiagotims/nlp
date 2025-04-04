@@ -34,5 +34,10 @@ repository for natural language processing projects and scripts
 📁 virtual_assistant 
 - This project is an interactive virtual assistant developed in Python with Streamlit, integrating multiple language models (OpenAI, Ollama and Hugging Face) to answer questions and interact with users. The system allows dynamic model selection, storing conversation history for a continuous flow of interaction.
 
+📁 RAG-documents
+- This project is an interactive chatbot that allows users to ask questions about submitted PDF documents. Using Retrieval Augmented Generation (RAG) techniques, it processes, indexes, and searches relevant information to answer user questions efficiently.
+
+
+
 
 
