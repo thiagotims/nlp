@@ -1,0 +1,12 @@
+streamlit
+langchain-core
+langchain-ollama
+langchain-openai
+langchain-huggingface
+langchain-community
+torch
+tempfile
+python-dotenv
+faiss-cpu
+pypdf
+
