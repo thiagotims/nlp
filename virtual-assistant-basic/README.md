@@ -1,6 +1,6 @@
 # 🤖 Assistente Virtual em Python
 
-Um assistente virtual em Python capaz de ouvir comandos de voz, responder com áudio, executar pesquisas, ler notícias, gerenciar uma agenda e avisar sobre compromissos. Este projeto foi desenvolvido para ser leve, funcional e sem depender de bibliotecas complexas que causam problemas de compatibilidade. Esse projeto foi implementado como "_desafio de projeto_" do curso _BairesDev - Machine Learning Training_ promovido pela BairesDev em parceria com a Dio.
+Um assistente virtual em Python capaz de ouvir comandos de voz, responder com áudio, executar pesquisas, ler notícias, gerenciar uma agenda e avisar sobre compromissos. Este projeto foi desenvolvido para ser leve, funcional e sem depender de bibliotecas complexas que causam problemas de compatibilidade. Ele foi implementado como "_desafio de projeto_" do curso _BairesDev - Machine Learning Training_ promovido pela BairesDev em parceria com a Dio.
 
 ---
 ## ⚙️ Funcionalidades
