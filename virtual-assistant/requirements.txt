@@ -1,9 +1,0 @@
-requests==2.31.0
-wikipedia==1.4.0
-gTTS==2.3.2
-sounddevice==0.4.8
-numpy==1.27.5
-SpeechRecognition==3.10.0
-googletrans==4.0.0-rc1
-feedparser==6.0.10
-
