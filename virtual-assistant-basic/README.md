@@ -59,10 +59,10 @@ O assistente oferece as seguintes funcionalidades:
 ## 🛠️ Instalação
 
 1. Clone o repositório:
-    ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <PASTA_DO_REPOSITORIO>
-    ```
+  ```bash 
+git clone https://github.com/thiagotims/nlp.git
+cd nlp/virtual-assistant-basic
+```
     
 2. Crie um ambiente virtual (recomendado):
     ```bash
