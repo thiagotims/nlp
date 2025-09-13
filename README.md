@@ -37,7 +37,8 @@ repository for natural language processing projects and scripts
 📁 RAG-documents
 - This project is an interactive chatbot that allows users to ask questions about submitted PDF documents. Using Retrieval Augmented Generation (RAG) techniques, it processes, indexes, and searches relevant information to answer user questions efficiently.
 
-
+📁 virtual-assistant-basic
+- A Python virtual assistant capable of listening to voice commands, responding with audio, performing searches, reading news, managing a calendar, and notifying about appointments. This project was developed to be lightweight, functional, and without relying on complex libraries that cause compatibility issues. It was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by BairesDev in partnership with Dio.
 
 
 
