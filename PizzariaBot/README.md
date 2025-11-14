@@ -173,7 +173,6 @@ PizzariaBot/
 ├── setup_pizzariabot.sh
 │
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
