@@ -12,7 +12,7 @@
 ---
 ## 🧠 Visão Geral
 
-O **PizzariaBot** é um chatbot completo desenvolvido sobre **Dialogflow CX**, com capacidade de combinar:
+O **PizzariaBot** consiste na estrutura-base de um chatbot completo desenvolvido sobre **Dialogflow CX**, com capacidade de combinar:
 
 - **Fluxos determinísticos** (intents, páginas, parâmetros estruturados)
     
