@@ -1,0 +1,13 @@
+{
+  "displayName": "InformacoesDoLocal",
+  "trainingPhrases": [
+    {"type": "EXAMPLE", "parts": [{"text": "Vocês têm salão?"}]},
+    {"type": "EXAMPLE", "parts": [{"text": "Posso comer aí?"}]},
+    {"type": "EXAMPLE", "parts": [{"text": "Tem lugar para sentar?"}]},
+    {"type": "EXAMPLE", "parts": [{"text": "Aceitam reservas?"}]},
+    {"type": "EXAMPLE", "parts": [{"text": "Tem estacionamento?"}]}
+  ],
+  "responses": [
+    {"messages": [{"text": {"text": ["Sim, temos salão para clientes com capacidade para até 40 pessoas. Deseja reservar?"]}}]}
+  ]
+}

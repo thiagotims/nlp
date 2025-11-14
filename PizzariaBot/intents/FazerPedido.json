@@ -1,0 +1,11 @@
+{
+  "displayName": "FazerPedido",
+  "trainingPhrases": [
+    {"type": "EXAMPLE", "parts": [{"text": "Quero pedir uma pizza"}]},
+    {"type": "EXAMPLE", "parts": [{"text": "Gostaria de uma pizza de calabresa"}]},
+    {"type": "EXAMPLE", "parts": [{"text": "Quero uma pizza grande de mussarela"}]}
+  ],
+  "responses": [
+    {"messages": [{"text": {"text": ["Perfeito — qual o sabor e o tamanho? (Pequena, média ou grande)"]}}]}
+  ]
+}
