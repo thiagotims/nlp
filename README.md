@@ -31,6 +31,9 @@ repository for natural language processing projects and scripts
 📄 transcricao_resumo_videos.ipynb 
 - This project enables automatic transcription and content analysis of YouTube videos. It allows you to obtain detailed information about a video without having to watch it in its entirety. The system combines transcription APIs with language models (LLMs) for content summarization and analysis.
 
+📁 PizzariaBot
+- The *PizzariaBot* consists of the basic structure of a complete chatbot developed on Dialogflow CX, capable of combining: 1. Deterministic flows (intents, pages, structured parameters); 2. Advanced generative fallback using Vertex AI — Gemini; 3. Customized logic through a Node.js webhook hosted on Cloud Run; 4. Complete infrastructure automation via the `setup_pizzariabot.sh` script. The goal is to show how to build a professional conversational assistant with a robust architecture, following best practices in engineering, cloud computing, and generative AI.
+
 📁 virtual_assistant 
 - This project is an interactive virtual assistant developed in Python with Streamlit, integrating multiple language models (OpenAI, Ollama and Hugging Face) to answer questions and interact with users. The system allows dynamic model selection, storing conversation history for a continuous flow of interaction.
 
