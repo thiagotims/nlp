@@ -256,6 +256,7 @@ Código organizado com:
 Desenvolvedor com foco em LLMs, automação e soluções em Inteligência Articial e Machine Learning.
 
 Contribuições são bem-vindas!  Entre em contato:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtim/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagotimdev@gmail.com)
 
 ---
