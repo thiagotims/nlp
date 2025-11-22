@@ -10,19 +10,8 @@
 
 Um assistente inteligente para geração automatizada de conteúdo otimizado para marketing digital, utilizando LLMs (Large Language Models) e uma interface intuitiva.
 
-## 📋 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [O Problema](#o-problema)
-- [A Solução](#a-solução)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
+---
 
-------
 ## 🎯 Sobre o Projeto
 
 O **Text Generator AI** é uma ferramenta desenvolvida para automatizar e otimizar o processo de criação de conteúdo para marketing digital. Através de inteligência artificial, a aplicação gera textos personalizados e otimizados para SEO, adaptados ao público-alvo e à plataforma de divulgação.
@@ -198,22 +187,9 @@ http://localhost:8501
 - Copie e utilize conforme necessário
 
 -----
-## 📁 Estrutura do Projeto
+## 🖼️ Interface de Usuário
 
-```
-gerador-conteudo/
-│
-
-├── content_generator.py # Aplicação principal
-
-├── .env # Variáveis de ambiente (não versionado)
-
-├── .gitignore # Arquivos ignorados pelo Git
-
-├── README.md # Documentação do projeto
-
-└── requirements.txt # Dependências (opcional)
-```
+![img](https://github.com/thiagotims/nlp/blob/main/text-generator/img/text-generator-ai.png)
 
 ----
 ## 🤝 Contribuindo
