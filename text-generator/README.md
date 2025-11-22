@@ -109,12 +109,12 @@ O Text Generator AI oferece um assistente automatizado que:
 
 ### Passo a Passo
 
-1. **Clone o repositório**
+1. **Clone o repositório e acesse o projeto**
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-conteudo.git
+git clone https://github.com/thiagotims/nlp.git
 
-cd gerador-conteudo
+cd nlp/text-generator
 ```
 
 2. **Crie um ambiente virtual** (recomendado)
